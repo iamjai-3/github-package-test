@@ -1,5 +1,5 @@
 {
-  "name": "@iotright/github-package-test",
+  "name": "@iamjai-3/github-package-test",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@iotright"
+    "registry": "https://npm.pkg.github.com/@iamjai-3"
   }
 }
